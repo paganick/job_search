@@ -153,5 +153,5 @@ cython_debug/
 
 
 # MY OWN
-figures/*
+figures/
 
